@@ -6,7 +6,6 @@
 
 # 📫 Where to reach me
 - Telegram [x93bd](t.me/x93bd)
-- Twitter [edkz93](twitter.com/edkz93)
 - Email x93bd0@gmail.com
 
 ![](https://raw.githubusercontent.com/x93bd0/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
