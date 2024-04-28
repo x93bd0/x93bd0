@@ -1,11 +1,10 @@
-# Introduction
-👋 Hi I'm Boris, a **programmer** from Cuba, I'm 15 years old.
+# Boris Martinez
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,html,js,css,java,bash,linux,julia)](https://skillicons.dev)
 
-# Languages
-👀 I know Python, Java, C++, C, Julia, Lua, and others
+Hi, I'm Boris, a programmer from **Cuba**, currently residing in **Mexico**. I've been programming since the start of the quarantine in April, 2020.
 
-# 📫 Where to reach me
-- Telegram [x93bd](https://t.me/x93bd)
-- Email x93bd0@gmail.com
+# 📫 How you can reach me?
+- By Telegram [x93bd](https://t.me/x93bd)
+- By Email x93bd0@gmail.com
 
 ![](https://raw.githubusercontent.com/x93bd0/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
